@@ -1,7 +1,7 @@
 # Operating-Systems
 School Project
 
-part 1 - process control
+part 1 - process control\n
 part 2 - message and interrupt handler
 part 3 - user process and syscall
 part 4 - device driver (read/write unfinished)
