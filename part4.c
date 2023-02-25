@@ -3,7 +3,7 @@
  * AUTHOR:     SIWEN WANG, HUIQI HE
  * COURSE:     CSC4XX FALL 2022
  * ASSIGNMENT: OS PROJECT PART 4
- * PURPOSE:	   DEVICE DRIVER
+ * PURPOSE:    DEVICE DRIVER
  * ***********************************************/
 
 #include <stdio.h>
