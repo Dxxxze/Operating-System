@@ -3,7 +3,7 @@
  * AUTHOR:     SIWEN WANG, HUIQI HE
  * COURSE:     CSC4XX FALL 2022
  * ASSIGNMENT: OS PROJECT PART 2
- * PURPOSE:	   MESSAGE AND INTERRUPT HANDLER
+ * PURPOSE:    MESSAGE AND INTERRUPT HANDLER
  * ***********************************************/
 
 #include <stdio.h>
