@@ -3,7 +3,7 @@
  * AUTHOR:     SIWEN WANG, HUIQI HE
  * COURSE:     CSC4XX FALL 2022
  * ASSIGNMENT: OS PROJECT PART 1
- * PURPOSE:	   PROCESS CONTROL
+ * PURPOSE:    PROCESS CONTROL
  * ***********************************************/
 
 #include <stdio.h>
