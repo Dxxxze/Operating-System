@@ -3,7 +3,7 @@
  * AUTHOR:     SIWEN WANG, HUIQI HE
  * COURSE:     CSC4XX FALL 2022
  * ASSIGNMENT: OS PROJECT PART 3
- * PURPOSE:	   USER PROCESS AND SYSCALL
+ * PURPOSE:    USER PROCESS AND SYSCALL
  * ***********************************************/
 
 #include <stdio.h>
